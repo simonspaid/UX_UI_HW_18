@@ -1,0 +1,94 @@
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+.logo {
+    width:23%;
+    padding: 1%;
+    text-align: center;
+  
+}
+
+nav{
+    width: 73%;
+    padding: 1%;
+}
+ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items: flex-end;
+    margin-left: 80%;
+    vertical-align: top;
+    text-align: right;
+}
+li {
+    display: inline;
+    font-size: 14px;
+    text-align: end;
+}
+.content {
+    padding: 25px;
+    width: 500px;
+    margin: 0 auto;
+    padding-right: 10%;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+color: #3DCFC2;
+font-family:"teko";
+font-size: 18pt;
+text-align: center;
+background-color:#373738;
+}
+#row{
+width:100%;
+text-align:left;
+padding:5px;
+}
+   
+.col{
+width:25%;
+height:100px;
+text-align:left;
+padding:5px;
+margin:2px;
+display:inline-block;
+float: right;
+
+.rectangle {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+}
+
+
+body {
+background-color: #181818;
+    font-family: "Archivo Black";
+    color: #cfcfcf;
+}
+button {
+    background-color: #181818;
+    stroke-width: 2px;
+    border-color: white;
+    color: white;
+    padding: 14px;
+    font-family: "teko";
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 35px;
+
+}
+footer {
+    background-color: #373738;
+    color: white;
+    font-family:"teko";
+    font-size: 18pt;
+    text-align: center;
+    }
